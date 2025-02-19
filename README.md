@@ -59,11 +59,23 @@ npm run dev
 ```
 ![1](https://github.com/user-attachments/assets/884c4703-bc53-4b50-93bc-a3ba018acd2d)
 
+
+
+
 ![2](https://github.com/user-attachments/assets/db12f901-bde4-4848-814f-4836af1735cc)
+
+
+
 
 ![3](https://github.com/user-attachments/assets/13f30cfd-06af-40bc-af78-c868da99dc03)
 
+
+
+
 ![3](https://github.com/user-attachments/assets/326d1e10-01c0-4d65-9440-bc7201c9b9a6)
+
+
+
 
 ![5](https://github.com/user-attachments/assets/17d82145-74d9-4909-a8e3-cfee196664b8)
 
